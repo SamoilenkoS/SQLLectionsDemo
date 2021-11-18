@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLLectionsDemo", "SQLLectionsDemo\SQLLectionsDemo.csproj", "{D1C913F0-BBC2-49FF-969B-F075776947D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLBL", "SQLBL\SQLBL.csproj", "{7371DEF8-8C8C-4ABD-945E-B3B940DFE082}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLDAL", "SQLDAL\SQLDAL.csproj", "{8ED6A829-B8C4-49AC-BFD6-D8BD99878996}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1C913F0-BBC2-49FF-969B-F075776947D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1C913F0-BBC2-49FF-969B-F075776947D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1C913F0-BBC2-49FF-969B-F075776947D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1C913F0-BBC2-49FF-969B-F075776947D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7371DEF8-8C8C-4ABD-945E-B3B940DFE082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7371DEF8-8C8C-4ABD-945E-B3B940DFE082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7371DEF8-8C8C-4ABD-945E-B3B940DFE082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7371DEF8-8C8C-4ABD-945E-B3B940DFE082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ED6A829-B8C4-49AC-BFD6-D8BD99878996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED6A829-B8C4-49AC-BFD6-D8BD99878996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED6A829-B8C4-49AC-BFD6-D8BD99878996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED6A829-B8C4-49AC-BFD6-D8BD99878996}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {295B073C-936B-4FE5-B6C9-C88B1F6202E1}
+	EndGlobalSection
+EndGlobal
